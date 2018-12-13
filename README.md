@@ -1,6 +1,5 @@
 # 介绍
 
-> 潭州前端Vip
 
 ## Build Setup
 
