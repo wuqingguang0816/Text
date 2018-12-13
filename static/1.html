@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<script type="text/javascript">
+    function f1 () {
+      var xhr = new XMLHttpRequest()
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4) {
+          console.log(xhr.responseXML)
+        }
+      }
+      xhr.open('get', 'http://localhost:233/static/1.xml')
+      xhr.send()
+    }
+    window.onload = function () {
+      f1()
+    }
+	</script>
+</head>
+<body>
+
+</body>
+</html>

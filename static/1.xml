@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pengyanzi>
+	<city>
+		<name>彭燕子</name>
+		<age>17</age>
+		<sex>男</sex>
+	</city>
+	<city>
+		<name>何美艳</name>
+		<age>17</age>
+		<sex>男</sex>
+	</city>
+	<city>
+		<name>刘媛媛</name>
+		<age>17</age>
+		<sex>男</sex>
+	</city>
+</pengyanzi>
